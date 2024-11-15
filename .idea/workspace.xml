@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3e4c1000-4a90-4b4f-8e9e-cc62ff8465c4" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/se/cedrik/spel/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/se/cedrik/spel/Spel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/se/cedrik/spel/model/Burglar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/se/cedrik/spel/model/Entity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/se/cedrik/spel/model/Resident.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/se/cedrik/spel/model/Burglar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/se/cedrik/spel/model/Entity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/se/cedrik/spel/model/EntityTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/se/cedrik/spel/model/Resident.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2oIrkwc16KMEC9pLSspWVhNOY1k" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main.executor": "Run",
+    "JUnit.EntityTest.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "/Users/cedrikressle/Documents/JavaProjects/Kurs2/Projektuppgift2/src/main/java/se/cedrik/spel/Main.java",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-b114ca120d71-intellij.indexing.shared.core-IU-242.21829.142" />
+        <option value="bundled-js-predefined-d6986cc7102b-7c0b70fcd90d-JavaScript-IU-242.21829.142" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3e4c1000-4a90-4b4f-8e9e-cc62ff8465c4" name="Changes" comment="" />
+      <created>1730568079597</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1730568079597</updated>
+      <workItem from="1730568080581" duration="405000" />
+      <workItem from="1730568496413" duration="160000" />
+      <workItem from="1730568674679" duration="28000" />
+      <workItem from="1730568723043" duration="497000" />
+      <workItem from="1730569357849" duration="3097000" />
+      <workItem from="1730716478416" duration="479000" />
+      <workItem from="1730717187963" duration="975000" />
+      <workItem from="1730718203748" duration="3000" />
+      <workItem from="1730718312212" duration="200000" />
+      <workItem from="1730718610424" duration="1375000" />
+      <workItem from="1730719996040" duration="10000" />
+      <workItem from="1730720064921" duration="180000" />
+      <workItem from="1730720272635" duration="91000" />
+      <workItem from="1730720541791" duration="1252000" />
+      <workItem from="1730721805914" duration="306000" />
+      <workItem from="1730722176494" duration="61000" />
+      <workItem from="1730722250389" duration="29000" />
+      <workItem from="1730722322059" duration="22000" />
+      <workItem from="1730798471239" duration="38000" />
+      <workItem from="1730798531754" duration="268000" />
+      <workItem from="1730798832589" duration="30000" />
+      <workItem from="1730798874725" duration="67000" />
+      <workItem from="1730798968468" duration="41000" />
+      <workItem from="1730799052397" duration="48000" />
+      <workItem from="1730799156316" duration="89000" />
+      <workItem from="1730799263300" duration="80000" />
+      <workItem from="1730799355311" duration="9000" />
+      <workItem from="1730799373557" duration="434000" />
+      <workItem from="1730799916142" duration="827000" />
+      <workItem from="1730803484434" duration="35000" />
+      <workItem from="1730803538517" duration="72000" />
+      <workItem from="1730803675316" duration="1246000" />
+      <workItem from="1730804952163" duration="56000" />
+      <workItem from="1730805066472" duration="134000" />
+      <workItem from="1730805226166" duration="34027000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
